@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "134088631499",
+    "firebase_url": "https://sgeme-d37f3.firebaseio.com",
+    "project_id": "sgeme-d37f3",
+    "storage_bucket": "sgeme-d37f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134088631499:android:23c4f8a91af64e78",
+        "android_client_info": {
+          "package_name": "com.jorgesoasti.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134088631499-6khuk64ci1ic3ovovbn1q3ero16ni834.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jorgesoasti.notificaciones",
+            "certificate_hash": "90c2c2a155add20a51b35cbd92359b1e7acb06e6"
+          }
+        },
+        {
+          "client_id": "134088631499-pteoumhrb7hc8kf4hcbql1f6eisl6b6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOMvqxPqRGIfieO_3pttOPG36R0xmg5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134088631499-pteoumhrb7hc8kf4hcbql1f6eisl6b6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
